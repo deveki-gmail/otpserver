@@ -9,7 +9,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class OtpserverApplicationTests {
 
-	@Test
+	@Test1
 	public void contextLoads() {
 	}
 
