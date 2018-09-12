@@ -54,4 +54,8 @@ public class OtpserverApplicationTests {
 	public void test7() {
 		Assert.assertEquals(true, true);
 	}
+	@Test 
+	public void test8() {
+		Assert.assertEquals(true, true);
+	}
 }
