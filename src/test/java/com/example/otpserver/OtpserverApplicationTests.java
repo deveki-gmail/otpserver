@@ -13,9 +13,7 @@ public class OtpserverApplicationTests {
 	public void contextLoads() {
 	}
 	
-	@Test
-	public void contextLoads() {
-	}
+	
 	
 	@Test 
 	public void test1() {
